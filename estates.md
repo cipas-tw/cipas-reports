@@ -111,6 +111,381 @@
 
 四、彙整中國國民黨以轉帳撥用等方式取得國有特種房屋基地已被徵收或已移轉第三人統計表如附表。
 
+<table class="table table-bordered table-hover table-condensed">
+  <tbody>
+    <tr>
+      <td> </td>
+      <td colspan="4">已被徵收</td>
+      <td colspan="4">已移轉第三人</td>
+      <td colspan="4">合計</td>
+    </tr>
+    <tr>
+      <td>縣市</td>
+      <td>筆數</td>
+      <td>面積（㎡）</td>
+      <td>移轉金額*（元）</td>
+      <td>106年1月公告現值（元）</td>
+      <td>筆數</td>
+      <td>面積（㎡）</td>
+      <td>移轉金額*（元）</td>
+      <td>106年1月公告現值（元）</td>
+      <td>筆數</td>
+      <td>面積（㎡）</td>
+      <td>移轉金額*（元）</td>
+      <td>106年1月公告現值（元）</td>
+    </tr>
+    <tr>
+      <td>臺北市</td>
+      <td>6 </td>
+      <td>2,996.00 </td>
+      <td>659,892,177 </td>
+      <td>1,432,175,000 </td>
+      <td>41 </td>
+      <td>9,589.00 </td>
+      <td>135,587,736 </td>
+      <td>5,812,319,207 </td>
+      <td>47 </td>
+      <td>12,585.00 </td>
+      <td>795,479,913 </td>
+      <td>7,244,494,207 </td>
+    </tr>
+    <tr>
+      <td>臺中市</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>2 </td>
+      <td>1,891.00 </td>
+      <td>1,223,804 </td>
+      <td>68,619,000 </td>
+      <td>2 </td>
+      <td>1,891.00 </td>
+      <td>1,223,804 </td>
+      <td>68,619,000 </td>
+    </tr>
+    <tr>
+      <td>基隆市</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>6 </td>
+      <td>781.00 </td>
+      <td>675,471 </td>
+      <td>52,530,477 </td>
+      <td>6 </td>
+      <td>781.00 </td>
+      <td>675,471 </td>
+      <td>52,530,477 </td>
+    </tr>
+    <tr>
+      <td>臺南市</td>
+      <td>1 </td>
+      <td>82.64 </td>
+      <td>859,298 </td>
+      <td>10,247,360 </td>
+      <td>330 </td>
+      <td>715,947.68 </td>
+      <td>24,958,580 </td>
+      <td>1,188,652,125 </td>
+      <td>331 </td>
+      <td>716,030.32 </td>
+      <td>25,817,878 </td>
+      <td>1,198,899,485 </td>
+    </tr>
+    <tr>
+      <td>高雄市</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>16 </td>
+      <td>2,185.00 </td>
+      <td>35,559,187 </td>
+      <td>86,037,333 </td>
+      <td>16 </td>
+      <td>2,185.00 </td>
+      <td>35,559,187 </td>
+      <td>86,037,333 </td>
+    </tr>
+    <tr>
+      <td>新北市</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>宜蘭縣</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>桃園市</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>2 </td>
+      <td>20.00 </td>
+      <td>99,180 </td>
+      <td>3,260,000 </td>
+      <td>2 </td>
+      <td>20.00 </td>
+      <td>99,180 </td>
+      <td>3,260,000 </td>
+    </tr>
+    <tr>
+      <td>嘉義市</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>8 </td>
+      <td>1,036.00 </td>
+      <td>1,708,098 </td>
+      <td>169,526,661 </td>
+      <td>8 </td>
+      <td>1,036.00 </td>
+      <td>1,708,098 </td>
+      <td>169,526,661 </td>
+    </tr>
+    <tr>
+      <td>新竹縣</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>苗栗縣</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>南投縣</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>彰化縣</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>1 </td>
+      <td>150.00 </td>
+      <td>269,346 </td>
+      <td>10,624,950 </td>
+      <td>1 </td>
+      <td>150.00 </td>
+      <td>269,346 </td>
+      <td>10,624,950 </td>
+    </tr>
+    <tr>
+      <td>新竹市</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>24 </td>
+      <td>1,975.00 </td>
+      <td>1,963,187 </td>
+      <td>288,310,857 </td>
+      <td>24 </td>
+      <td>1,975.00 </td>
+      <td>1,963,187 </td>
+      <td>288,310,857 </td>
+    </tr>
+    <tr>
+      <td>雲林縣</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>嘉義縣</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>屏東縣</td>
+      <td>1 </td>
+      <td>5.00 </td>
+      <td>267,460 </td>
+      <td>260,580 </td>
+      <td>14 </td>
+      <td>465.00 </td>
+      <td>1,564,000 </td>
+      <td>30,241,450 </td>
+      <td>15 </td>
+      <td>470.00 </td>
+      <td>1,831,460 </td>
+      <td>30,502,030 </td>
+    </tr>
+    <tr>
+      <td>花蓮縣</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>6 </td>
+      <td>685.00 </td>
+      <td>256,027 </td>
+      <td>47,879,508 </td>
+      <td>6 </td>
+      <td>685.00 </td>
+      <td>256,027 </td>
+      <td>47,879,508 </td>
+    </tr>
+    <tr>
+      <td>臺東縣</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>金門縣</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>澎湖縣</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>連江縣</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>合計</td>
+      <td>8 </td>
+      <td>3,083.64 </td>
+      <td>661,018,935 </td>
+      <td>1,442,682,940 </td>
+      <td>450 </td>
+      <td>734,724.68 </td>
+      <td>203,864,615 </td>
+      <td>7,758,001,568 </td>
+      <td>458 </td>
+      <td>737,808.32 </td>
+      <td>864,883,550 </td>
+      <td>9,200,684,508 </td>
+    </tr>
+  </tbody>
+</table>
+
+註：移轉金額，被徵收者以各縣市政府提供資料為準，移轉第三人者以當期公告現值乘以移轉當時土地面積計算。若無當年期公告現值，以最接近年期之公告現值計算。
+
+更新日期：2017年6月13日
+
 -----
 
 1. 監察院90年4月2日調查報告第40頁（調查卷一p.20）
