@@ -316,7 +316,7 @@
       <td></td>
     </tr>
     <tr>
-      <td align="right">2</td>
+      <td align="right" rowspan="13">2</td>
       <td rowspan="13">宜蘭龍潭游泳池</td>
       <td rowspan="13">土地</td>
       <td rowspan="13">宜蘭</td>
@@ -378,7 +378,7 @@
       <td>門牌：彰化市卦山路2號，基地30-3地號所有權為彰化市</td>
     </tr>
     <tr>
-      <td align="right">4</td>
+      <td align="right" rowspan="3">4</td>
       <td rowspan="3"><del>台中縣眷舍</del></td>
       <td>土地</td>
       <td>台中市</td>
@@ -391,7 +391,6 @@
       <td>管理者為台中縣團務指導委員會</td>
     </tr>
     <tr>
-      <td align="right"></td>
       <td colspan="5">同段號1-552（86年分割自1-66）、1-585、1-586、1-587（91年分割自1-66及1-552）、1-607（97年分割自1-66）</td>
       <td></td>
       <td></td>
@@ -399,7 +398,6 @@
       <td></td>
     </tr>
     <tr>
-      <td align="right"></td>
       <td>建物</td>
       <td>台中市</td>
       <td>豐原區</td>
@@ -411,7 +409,7 @@
       <td>豐原區三村路合作新村67巷2號</td>
     </tr>
     <tr>
-      <td align="right">5</td>
+      <td align="right" rowspan="2">5</td>
       <td rowspan="2">大直眷舍<br/>（臺北市大直街20巷）</td>
       <td rowspan="2">土地</td>
       <td rowspan="2">台北</td>
@@ -461,19 +459,12 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
       <td>未登記</td>
-      <td></td>
-      <td></td>
       <td></td>
       <td>99年6月1日鄉公所收回土地，地上物拆除</td>
     </tr>
   </tbody>
 </table>
-
-(table)
-
 
 <table class="table table-bordered table-hover table-condensed">
   <caption>附表2：救國團59年至78年取得之不動產清冊</caption>
@@ -578,11 +569,11 @@
       <td rowspan="6">宜蘭</td>
       <td rowspan="6">礁溪</td>
       <td rowspan="6">永興</td>
-      <td></td>
+      <td rowspan="6"></td>
       <td>123.76</td>
       <td rowspan="6">全</td>
       <td rowspan="6">88年5月11日</td>
-      <td>門牌：宜蘭縣礁溪鄉三皇路○號<br />建物完成日期：70年9月15日</td>
+      <td rowspan="6">門牌：宜蘭縣礁溪鄉三皇路○號<br />建物完成日期：70年9月15日</td>
     </tr>
     <tr>
       <td>2.97</td>
@@ -965,7 +956,6 @@
       <td></td>
       <td></td>
       <td>828.46</td>
-      <td></td>
       <td>未登記</td>
       <td></td>
       <td>93年12月17日讓售太魯閣國家公園管理處</td>
